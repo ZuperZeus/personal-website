@@ -212,7 +212,7 @@ img {
 .inspiring-quote {
   /* display: flex; */
   /* align-content: center; */
-  padding: 30px 80px;
+  padding: 80px 80px 0 80px;
   background: var(--main-bg);
 }
 .inspiring-quote-box {
@@ -220,7 +220,8 @@ img {
   flex-direction: column;
   background: var(--main-bg);
   align-content: center;
-  max-width: max-content;
+  /* max-width: max-content; */
+  max-width: 1000px;
   margin: 0 auto;
 }
 .inspiring-quote-text {
@@ -255,7 +256,3 @@ img {
   color: var(--main-text)
 }
 /* CALL TO ACTION */
-
-* {
-  /* border: 2px solid red; */
-}
