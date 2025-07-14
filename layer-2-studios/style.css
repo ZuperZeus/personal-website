@@ -14,11 +14,11 @@ body {
 
 
 button {
-  font-family: Roboto, sans-serif;
-  border: none;
+  font-family: sans-serif;
+  border: 2px solid white;
   border-radius: 8px;
   color:white;
-  background: #3882F6;
+  background: #222222;
   padding: 8px 30px;
 }
 
@@ -96,6 +96,7 @@ img {
 .website-description-title {
   font-size: 48px;
   font-weight: 900;
+  margin-bottom: 12px;
   font-family: Comfortaa, sans-serif;
 }
 .website-description-text {
@@ -119,12 +120,20 @@ img {
 .random-information {
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
+  padding: 80px;
 }
+
+.random-information-title {
+  color: #333333;
+  font-family: comfortaa, sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+}
+
 .cards {
   display: flex;
-
+  flex-wrap: wrap;
 }
 .card {
   display: flex;
