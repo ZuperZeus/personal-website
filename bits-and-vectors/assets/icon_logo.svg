@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="icon_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#00ff00"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#3f3f3f"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.65556506"
+     inkscape:cx="397.36712"
+     inkscape:cy="505.67064"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="4.2333333"
+       empcolor="#0000ff"
+       empopacity="1"
+       color="#0096ff"
+       opacity="0.34117647"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       enabled="false"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path4" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-351.95271 : 338.66666 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="586.58784 : 338.66666 : 1"
+       inkscape:persp3d-origin="135.46667 : 90.31111 : 1"
+       id="perspective20" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="translate(-17.203385,-68.383471)">
+      <rect
+         style="fill:#000080;fill-opacity:1;stroke-width:18.0622;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2"
+         width="270.93332"
+         height="270.93332"
+         x="17.20339"
+         y="68.383476"
+         rx="27.093332"
+         inkscape:export-filename="Icon_logo.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#f9f9f9;stroke-width:13.5467;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded)"
+         d="M 59.146825,271.51713 H 240.00101"
+         id="path2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:120.415px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Thin';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#00ff00;stroke-width:13.5467;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="57.724823"
+         y="190.67068"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Thin';stroke:#00ff00;stroke-width:13.5467"
+           x="57.724823"
+           y="190.67068">0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:120.415px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Thin';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#00ff00;stroke-width:13.5467;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="164.89047"
+         y="190.61035"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono Thin';fill:none;stroke:#00ff00;stroke-width:13.5467"
+           x="164.89047"
+           y="190.61035">1 </tspan></text>
+    </g>
+  </g>
+</svg>
