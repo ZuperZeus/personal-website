@@ -213,15 +213,22 @@ img {
 
 /* INSPIRING QUOTE */
 .inspiring-quote {
+  /* display: flex; */
+  /* align-content: center; */
+  padding: 80px;
+  background: var(--main-bg-1);
+}
+.inspiring-quote-box {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
-  background-color: var(--main-bg-1);
-  padding: 40px;
+  background: var(--main-bg-1);
+  align-content: center;
+  max-width: max-content;
+  margin: 0 auto;
 }
 .inspiring-quote-text {
   color: var(--alt-text-1);
-
+  text-align: center;
 }
 .inspiring-quote-attribution {
   font-size: 20px;
@@ -229,6 +236,7 @@ img {
   color: var(--main-text-1);
   font-weight: 900;
   margin-top: 20px;
+  align-self: flex-end;
 }
 /* INSPIRING QUOTE */
 
