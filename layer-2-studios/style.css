@@ -118,23 +118,26 @@ img {
   background-color: #333333;
   color: #F9FAF8;
   justify-content: center;
+  align-content: space-evenly;
   gap: 12px;
 }
-.website-description-title {
-  font-size: 48px;
-  font-weight: 900;
-  margin-bottom: 12px;
-  font-family: Comfortaa, sans-serif;
-}
+
 .website-description-text {
   min-width: 300px;
   flex: 1 1 300px;
   padding: 12px;
   color: #F9FAF8;
   gap: 9px;
+  margin: auto;
 }
 .website-description-par {
-  margin-bottom:12px
+  margin-bottom:20px
+}
+.website-description-title {
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 12px;
+  font-family: Comfortaa, sans-serif;
 }
 .website-description-img {
   min-width: 300px;
