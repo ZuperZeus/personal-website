@@ -1,4 +1,4 @@
-@import('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
 :root {
   --main-bg: #333333;
   --light-bg: #404040;
@@ -10,7 +10,7 @@
   --icon-color-2: #ffaa00;
   --icon-color-3: #ff5500;
   --icon-color-4: #ff0000;
-  --main-font: "Comfortaa", Verdana, Arial, sans-serif;
+  --main-font: 'Comfortaa', Verdana, Arial, sans-serif;
   --text-font: Verdana, Arial, sans-serif;
 }
 
