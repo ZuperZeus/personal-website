@@ -349,6 +349,9 @@ img {
   align-content: center;
 }
 .shop-card-img {
+  width:200px;
+  height:150px;
+  object-fit: cover;
   border-radius: 30px;
   border: 4px solid var(--icon-color-2);
 }
