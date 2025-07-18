@@ -20,8 +20,9 @@ function updateHeaderTextColor() {
   const welcomeBottom = welcome.offsetTop + welcome.offsetHeight;
 
   // If header is over the welcome image (dark bg), set text white, else black
-  if (scrollY < welcomeBottom) {
+  if (scrollY < welcomeBottom-header.offsetHeight/2) {
     header.style.color = 'var(--alt-text-1';  // dark background → white text
+    
   } else {
     header.style.color = 'var(--main-text)';  // light background → black text
   }
