@@ -45,6 +45,15 @@ body {
 }
 
 
+.title {
+  font-family: var(--main-font);
+  font-weight: 900;
+  font-size: 10vmin;
+  text-shadow: 3px 3px 5px var(--icon-color-2);
+  color: var(--main-text);
+  margin: 30px;
+  align-self:center;
+}
 button {
   font-family: var(--main-font);
   font-weight: 900;
@@ -81,6 +90,7 @@ a {
   display: inline;
   color: inherit;
   /* color: var(--icon-color-3); */
+  text-decoration: none;
 }
 
 .content {
@@ -192,20 +202,26 @@ img {
 /* WEBSITE DESCRIPTION */
 .website-description {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
   padding: 80px;
   /* background-color: var(--main-bg); */
   /* background-image: url("./assets/start-background.jpg"); */
-  color: var(--man-text);
-  justify-content: center;
-  align-content: space-evenly;
+  color: var(--main-text);
+  align-items: center;
   gap: 20px;
 }
 
-.website-description-text {
-  flex: 1 1 300px;
+.website-description-body {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 80px;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 20px;
+  /* flex: 1 1 300px; */
   padding: 12px;
-  gap: 9px;
+  gap: 30px;
   margin: auto;
   margin: auto;
 }
@@ -217,6 +233,7 @@ img {
 }
 .website-description-par {
   margin-bottom:20px;
+  flex: 1 1 300px;
 }
 .website-description-img-text {
   text-justify: left;
@@ -226,6 +243,7 @@ img {
   font-size: 48px;
   font-weight: 900;
   margin-bottom: 12px;
+  text-justify: center;
   font-family: var(--main-font);
 }
 .website-description-img {

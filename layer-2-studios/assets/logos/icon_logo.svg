@@ -69,22 +69,22 @@
     <g
        id="g1"
        transform="matrix(1.8656717,0,0,1.8656717,299.24262,-306.28528)"
-       style="stroke-width:0.536;stroke:#000000">
+       style="stroke-width:0.536;stroke:none">
       <path
          id="rect26-3-3-0"
-         style="fill:#ffff00;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"
+         style="fill:#ffff00;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:none"
          d="m -121.31169,179.45911 h 95.401959 c 4.062122,0 7.332351,-3.27023 7.332351,-7.33235 v 0 c 0,-4.06212 -3.270229,-7.33235 -7.332351,-7.33235 h -95.401959 c -4.06212,0 -7.33235,3.27023 -7.33235,7.33235 v 0 c 0,4.06212 3.27023,7.33235 7.33235,7.33235 z" />
       <path
          id="use26-5-9"
-         style="fill:#ffaa00;fill-opacity:1;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"
+         style="fill:#ffaa00;fill-opacity:1;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:none"
          d="m -131.89502,197.78997 h 95.401959 c 4.062122,0 7.332351,-3.27022 7.332351,-7.33235 v 0 c 0,-4.06212 -3.270229,-7.33235 -7.332351,-7.33235 h -95.401959 c -4.06212,0 -7.33235,3.27023 -7.33235,7.33235 v 0 c 0,4.06213 3.27023,7.33235 7.33235,7.33235 z" />
       <path
          id="use27-6-3"
-         style="fill:#ff5500;fill-opacity:1;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"
+         style="fill:#ff5500;fill-opacity:1;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:none"
          d="m -142.47836,216.12084 h 95.401959 c 4.062122,0 7.332351,-3.27022 7.332351,-7.33235 v 0 c 0,-4.06212 -3.270229,-7.33235 -7.332351,-7.33235 h -95.401959 c -4.06212,0 -7.33235,3.27023 -7.33235,7.33235 v 0 c 0,4.06213 3.27023,7.33235 7.33235,7.33235 z" />
       <path
          id="use28-2-6"
-         style="fill:#ff0000;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:#000000"
+         style="fill:#ff0000;stroke-width:1.41817;stroke-linecap:round;stroke-linejoin:round;stroke:none"
          d="m -153.06169,234.45173 h 95.401959 c 4.062122,0 7.332351,-3.27023 7.332351,-7.33236 v 0 c 0,-4.06212 -3.270229,-7.33235 -7.332351,-7.33235 h -95.401959 c -4.06212,0 -7.33235,3.27023 -7.33235,7.33235 v 0 c 0,4.06213 3.27023,7.33236 7.33235,7.33236 z" />
     </g>
   </g>
